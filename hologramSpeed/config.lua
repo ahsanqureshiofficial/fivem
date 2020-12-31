@@ -2,7 +2,7 @@ Config = {
 	-- The hologram model name, do not change this
 	modelName = 'hologram_box_model',
 	-- The speedometer UI page url
-	duiUrl = 'http://20.196.0.4/ui/hologram.html',
+	duiUrl = 'https://kasuganosoras.github.io/hologramSpeed/ui/hologram.html',
 	-- User default profile --
 	keyControl = 243,   -- The key to enable or disable the speedometer
 	useMph     = false,  -- Using MPH unit
